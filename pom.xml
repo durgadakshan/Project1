@@ -52,10 +52,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0http://maven.apache.org/mav
     <artifactId>pmd</artifactId>
     <version>4.3</version>
 </dependency>
-<dependency>
-    <groupId>org.codehaus.mojo</groupId>
-    <artifactId>findbugs-maven-plugin</artifactId>
-    <version>3.0.3</version>
+
 
 </dependency>
  <dependency>
@@ -83,6 +80,10 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0http://maven.apache.org/mav
     <artifactId>maven-resources-plugin</artifactId>
     <version>3.0.0</version>
 </dependency>
+<dependency>
+    <groupId>org.codehaus.mojo</groupId>
+    <artifactId>findbugs-maven-plugin</artifactId>
+    <version>3.0.3</version>
 
 </dependencies>
 </project>
