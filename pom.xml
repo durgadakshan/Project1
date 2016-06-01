@@ -56,7 +56,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0http://maven.apache.org/mav
     <groupId>org.codehaus.mojo</groupId>
     <artifactId>findbugs-maven-plugin</artifactId>
     <version>3.0.3</version>
-</dependency>
+
 </dependency>
  <dependency>
     <groupId>org.apache.maven.plugins</groupId>
