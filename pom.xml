@@ -27,6 +27,11 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0http://maven.apache.org/mav
 </build>
 <dependencies>
  <dependency>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-compiler-plugin</artifactId>
+    <version>3.5.1</version>
+</dependency>
+ <dependency>
     <groupId>org.apache.maven</groupId>
     <artifactId>maven-plugin-api</artifactId>
     <version>3.3.3</version>
