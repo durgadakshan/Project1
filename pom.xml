@@ -1,0 +1,28 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" 
+
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+
+xsi:schemaLocation="http://maven.apache.org/POM/4.0.0http://maven.apache.org/maven-v4_0_0.xsd">
+
+ 
+<modelVersion>4.0.0</modelVersion>
+
+
+<groupId>training.maven.add</groupId>
+
+<artifactId>Calc-ADD-SUB-MUL</artifactId>
+  
+<packaging>jar</packaging>
+  
+<version>3.0-SNAPSHOT ADD-SUB-MUL</version>
+  
+
+<name>Calculator-Add-SUB-MUL</name>
+
+<description>This is a Calculator pgm for Add and SUB and MUL</description>
+<inceptionYear>2016</inceptionYear>
+<url>http://maven.training</url>
+<build>
+<finalName>Add-SUB-MUL-Calc</finalName>
+</build>
+</project>
